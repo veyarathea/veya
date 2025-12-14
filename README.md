@@ -3,7 +3,7 @@
   <span style="color:#F4C784">e</span>
   <span style="color:#D9775F">y</span>
   <span style="color:#C97C5D">a</span>
-  🌸✨
+  ✨
 </h1>
 
 <p align="center">
